@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T04:54:59.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="432hmlk-nqZz-yAqKElW" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T08:00:32.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jXQYz2KlqtlDyB8yitow" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="704" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,77 +87,77 @@
             <mxPoint x="280" y="540" as="sourcePoint" />
             <mxPoint x="480" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="540" />
-              <mxPoint x="470" y="108" />
+              <mxPoint x="480" y="540" />
+              <mxPoint x="480" y="108" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-12" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;공지사항 본문 추출에 성공하였는가&lt;/font&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="489" y="60" width="100" height="80" as="geometry" />
+          <mxGeometry x="509" y="60" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="538.66" y="140" as="sourcePoint" />
-            <mxPoint x="539" y="180" as="targetPoint" />
+            <mxPoint x="558.66" y="140" as="sourcePoint" />
+            <mxPoint x="559" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="539" y="170" />
-              <mxPoint x="539" y="170" />
+              <mxPoint x="559" y="170" />
+              <mxPoint x="559" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-15" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="589" y="99.66" as="sourcePoint" />
-            <mxPoint x="640" y="99.66" as="targetPoint" />
+            <mxPoint x="609" y="99.66" as="sourcePoint" />
+            <mxPoint x="660" y="99.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-16" value="에러 발생" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="660" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-21" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;lang별 작성자 표시&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="479" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="499" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-22" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="538.66" y="220" as="sourcePoint" />
-            <mxPoint x="539" y="260" as="targetPoint" />
+            <mxPoint x="558.66" y="220" as="sourcePoint" />
+            <mxPoint x="559" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="539" y="250" />
-              <mxPoint x="539" y="250" />
+              <mxPoint x="559" y="250" />
+              <mxPoint x="559" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-23" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;자신이 작성한 글인지 확인&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="479" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="499" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="US4XQxfpLDW0VNZ6Fe32-24" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;엘라스틱에 조회수 확인&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="479" y="340" width="120" height="40" as="geometry" />
+        <mxCell id="US4XQxfpLDW0VNZ6Fe32-24" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;엘라스틱에 조회수 확인 및 처리&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="499" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-25" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="538.66" y="300" as="sourcePoint" />
-            <mxPoint x="539" y="340" as="targetPoint" />
+            <mxPoint x="558.66" y="300" as="sourcePoint" />
+            <mxPoint x="559" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="539" y="330" />
-              <mxPoint x="539" y="330" />
+              <mxPoint x="559" y="330" />
+              <mxPoint x="559" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-26" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed;&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;사용자에게 응답&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="479" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="499" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="US4XQxfpLDW0VNZ6Fe32-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="538.66" y="380" as="sourcePoint" />
-            <mxPoint x="539" y="420" as="targetPoint" />
+            <mxPoint x="558.66" y="380" as="sourcePoint" />
+            <mxPoint x="559" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="539" y="410" />
-              <mxPoint x="539" y="410" />
+              <mxPoint x="559" y="410" />
+              <mxPoint x="559" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
